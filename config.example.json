@@ -1,0 +1,11 @@
+{
+  "bot_token": "YOUR-TOKEN",
+  "owner_id": 0,
+  "channel_id": "@your_channel_id",
+  "password": "",
+  "files": ["secret.pdf"],
+  "message": "",
+  "proxy": "",
+  "default_hours": 24,
+  "warn_before_hours": 4
+}
